@@ -10,4 +10,4 @@
 8. 點擊上面的 Add file -> Upload files
 9. 在自己的電腦創建一個新的資料夾，檔名為**新的數字**，然後把素材放進去資料夾裡面，素材檔名須符合 html 檔裡面的圖片路徑
 10. 點擊下方的 Commit changes 送出
-11. 完成以上步驟即可打開 <https://signinaddemo.github.io/demo_link_sec/XX.html> 查看 demo link（把 xx 換成**新的數字**）
+11. 完成以上步驟即可打開 <https://signinaddemo.github.io/demo_link_third/XX.html> 查看 demo link（把 xx 換成**新的數字**）
